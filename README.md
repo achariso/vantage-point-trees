@@ -5,7 +5,12 @@ Three parallel technologies will be used:
 - OpenMP
 - Cilk
 
+Project Aggregate: **1** out of **4**
+
 # Course Details
-Course: HY3603 - Parallel and Distributed Computer Systems
+Course: HY3603 - Parallel and Distributed Computer Systems (7th Semester)
+
 Professor: N. Pitsianis
+
+Electrical & Computer Engineering, 
 Aristotle University, Thessaloniki, Greece
