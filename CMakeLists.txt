@@ -3,7 +3,8 @@ project(1___PThreads___Vantage_Point_Trees C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(VPT main.c src/vpt_parallel.c include/vpt_parallel.h)
+set(SOURCE_FILES main.c)
+add_executable(VPT ${SOURCE_FILES})
 
 include_directories(include)
 include_directories(src)

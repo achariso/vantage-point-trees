@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <vpt_parallel.h>
 
-int main() {
+int main()
+{
     printf("Hello, World!\n");
     return 0;
 }
