@@ -6,7 +6,7 @@ set(CMAKE_C_STANDARD 11)
 set(SOURCE_FILES main.c)
 add_executable(VPT ${SOURCE_FILES})
 
-include_directories(include)
+include_directories(inc)
 include_directories(src)
 
 add_subdirectory(src)

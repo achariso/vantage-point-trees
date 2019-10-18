@@ -1,0 +1,12 @@
+#ifndef INC_1___PTHREADS___VANTAGE_POINT_TREES_CONF_H
+#define INC_1___PTHREADS___VANTAGE_POINT_TREES_CONF_H
+
+#ifndef DATASET_N
+    #define DATASET_N 10
+#endif
+
+#ifndef DATASET_D
+    #define DATASET_D 1
+#endif
+
+#endif //INC_1___PTHREADS___VANTAGE_POINT_TREES_CONF_H

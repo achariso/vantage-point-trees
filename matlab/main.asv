@@ -1,0 +1,16 @@
+clear, clc
+
+DATASET_N = 100;
+DATASET_D = 2;
+
+% Initialize Dataset
+DATASET = zeros(DATASET_N, DATASET_D);
+for i = 0:DATASET_N - 1
+    
+    for j = 0:DATASET_D - 1
+
+        DATASET(i + 1, j + 1) = i + j + ( i * j ) / (i + j);
+
+    end
+    
+end
